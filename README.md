@@ -14,7 +14,7 @@ This is a basic Java Swing application that provides a simple text editor with s
 1. Clone this repository to your local machine.
 
 ```
-git clone https://github.com/your-username/text-editor.git
+git clone https://github.com/nidhiy0409/text-editor.git
 ```
 
 2. Compile the Java source code.
